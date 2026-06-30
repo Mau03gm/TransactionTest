@@ -1,4 +1,4 @@
-package com.mauriciogomez.transaction.exception;
+package com.mauriciogomez.transaction2.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
