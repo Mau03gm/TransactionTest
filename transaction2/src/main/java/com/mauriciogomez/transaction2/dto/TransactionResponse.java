@@ -1,5 +1,10 @@
 package com.mauriciogomez.transaction2.dto;
 
+import lombok.Builder;
+import lombok.Data;
+
+@Data
+@Builder
 public class TransactionResponse {
 
     private Long id;
